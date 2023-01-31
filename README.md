@@ -28,7 +28,7 @@ Future plan:
 
 -addition of more stocks in the dataset
 
--adition of continual learning for continued track of the market
+-addition of continual learning for continued track of the market
 
 -commercial use
 
