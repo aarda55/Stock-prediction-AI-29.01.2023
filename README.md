@@ -3,9 +3,9 @@ This is a prototype Artificial intellicence model to predict stock prices (This 
 
 ---------------------------------------------------------------------
 
-Objective of Software:
+# Objective of Project:
 
-prediction of Stock prices (only concept) - trained on TSLA
+Prediction of Stock prices and research on feasibilitie of said goal - trained on TSLA
 
 ---------------------------------------------------------------------
 
